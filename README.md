@@ -34,4 +34,3 @@ TODO: Add the technologies, frameworks, and tools you use regularly.
 - Email: TODO
 - Website: TODO
 - LinkedIn: TODO
-<!-- profile-readme-refresh -->
