@@ -1,4 +1,4 @@
-# Hi
+# Hi there
 
 My name is Pu Jia. I have been admitted as a prospective Ph.D. student in Artificial Intelligence at the School of Artificial Intelligence, Beihang University (BUAA). My future research interests include large language model reasoning and post-training with multi-agent reinforcement learning.
 
